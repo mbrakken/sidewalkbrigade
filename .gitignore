@@ -15,4 +15,7 @@
 /tmp
 
 # Ignore sublimetext project workspace file
-swbrig.sublime-workspace
+/swbrig.sublime-workspace
+
+# Ignore OS files
+/.DS_store
