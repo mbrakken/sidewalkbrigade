@@ -1,6 +1,5 @@
 class HelloController < ApplicationController
 
-testing
   def index
     @message="Hello!"
     @count=3
